@@ -1,1 +1,1 @@
-# MoE-WM
+# MoWM
